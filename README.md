@@ -166,3 +166,4 @@ Change 2 from branch1
 Change 3 from branch1
 Change 4 from branch1
 Change 5 from branch1
+Change 6 from branch1
